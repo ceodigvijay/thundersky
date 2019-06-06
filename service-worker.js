@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/thundersky/precache-manifest.2a4d58a2aa5b0b6a04cfb4aacd7cb3c9.js"
+  "/thundersky/precache-manifest.5fdea2d2346e881b4fd3d678ed65530e.js"
 );
 
 workbox.clientsClaim();

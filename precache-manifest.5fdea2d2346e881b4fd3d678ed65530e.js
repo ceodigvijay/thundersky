@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/thundersky/static/media/clearRainy.c17e7a5d.svg"
   },
   {
-    "revision": "184092577b9b274e61a1",
-    "url": "/thundersky/static/css/main.d0a00660.chunk.css"
+    "revision": "35fa8423cb81fa29696e",
+    "url": "/thundersky/static/css/main.d9691956.chunk.css"
   },
   {
     "revision": "e0bcaee2a1e81deaa2c0",
     "url": "/thundersky/static/js/runtime~main.9d40389a.js"
   },
   {
-    "revision": "38cc15545184c2955cbc",
-    "url": "/thundersky/static/js/2.2d7880b8.chunk.js"
+    "revision": "04c3442a2eae7a1ce99f",
+    "url": "/thundersky/static/js/2.e11991cb.chunk.js"
   },
   {
     "revision": "d03f455906deba9bab06289979f14bb1",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/thundersky/static/media/clearNight.a3f3f38d.svg"
   },
   {
-    "revision": "184092577b9b274e61a1",
-    "url": "/thundersky/static/js/main.0acea956.chunk.js"
+    "revision": "35fa8423cb81fa29696e",
+    "url": "/thundersky/static/js/main.fa3ba00c.chunk.js"
   },
   {
     "revision": "109368f632c5dafab6cbf47ec386f8d0",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/thundersky/static/media/thunder.7142c78b.svg"
   },
   {
-    "revision": "454f999c9f08bcccd6c71bc7cb130548",
+    "revision": "3f4819893bb4974751f3fbfe9fd34cb8",
     "url": "/thundersky/index.html"
   }
 ];
